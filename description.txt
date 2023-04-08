@@ -1,0 +1,7 @@
+This page is dedicated to recreating nostalgic, classic games which have been written from scratch ;)
+
+
+Pacman
+Snake
+Hangman
+Minesweeper
